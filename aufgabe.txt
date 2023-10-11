@@ -1,0 +1,6 @@
+programm gate.dat connection.dat type.dat function.dat
+
+Berechne für jeden Typ den durchschnittlichen Fanout.  Der Fanout eines
+Output-Pins ist die Anzahl der Eingänge, mit denen es verbunden ist.  Gib
+alle Typen geordnet nach durchschnittlichem Fanout zusammen mit diesem aus.
+
