@@ -7,7 +7,7 @@
 
 //lt Mail Hoermandinger und Hoeflmaier gemeinsame Abgabe
 
-//Fanoutberechnung über alle Gates in der Connection.dat, //auch wenn es mehrere Schaltungen waren.
+//Fanoutberechnung ueber alle Gates in der Connection.dat, //auch wenn es mehrere Schaltungen waren.
 
 int main (int argc, char *argv[])
 {
