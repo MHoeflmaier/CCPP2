@@ -8,7 +8,7 @@
 //lt Mail Hoermandinger und Hoeflmaier gemeinsame Abgabe
 
 //Fanoutberechnung ueber alle Gates in der Connection.dat, //auch wenn es mehrere Schaltungen waren.
-
+// Passt.  Rade
 int main (int argc, char *argv[])
 {
   if (argc < 5)
